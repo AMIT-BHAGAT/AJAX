@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+*{
+    margin: 0;
+    padding:0;
+
+  }
+
+
+.modal-header{
+  margin:0;
+  padding: 10px;
+}
+
+.modal-body{
+  margin:0;
+  padding: 0 10px;
+}
+
+.form-group{
+  margin:0;
+}
+#address{
+	margin-bottom:10px;
+}
+#logout{
+	margin:20px 0;
+}
